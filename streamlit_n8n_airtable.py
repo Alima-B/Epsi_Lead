@@ -69,4 +69,7 @@ except Exception as e:
     print(f"Erreur : {e}")
     
 #### DASHBOARD STREAMLIT
+
 import streamlit as st
+
+st.write("Dashboard n8n_Airtable")
